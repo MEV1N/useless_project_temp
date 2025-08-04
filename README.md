@@ -1,96 +1,49 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Orakkam Ahno Mwonu🎯
 
 
 ## Basic Details
-### Team Name: [Name]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mevin Aby Manu - MBCCET
 
 ### Project Description
-[2-3 lines about what your project does]
+It ia a website that helps you identify if you are really awake by asking you some silly questions and observe your eyes at the same time. The answer and responce of the wensite will depend on if your eyes are closed or open
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Most of the people are not sure if they are actually awake or not.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Orakkam Ahno Mwonu helps you decide if you are awake or not by asking you a set of questions and confirm if you are awake
 
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://github.com/MEV1N/orakkam-ahno-mwonu/blob/main/Screenshot%202025-08-02%20074507.png
+Home page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://github.com/MEV1N/orakkam-ahno-mwonu/blob/main/Screenshot%202025-08-02%20074524.png
+Starting detection
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://github.com/MEV1N/orakkam-ahno-mwonu/blob/main/Screenshot%202025-08-02%20074539.png
+Question Session
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/MEV1N/orakkam-ahno-mwonu/blob/main/Recording%202025-08-02%20074942.mp4
+a small demo on how this website works
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Mevin Aby Manu - Idea, Doding, Hosting
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
